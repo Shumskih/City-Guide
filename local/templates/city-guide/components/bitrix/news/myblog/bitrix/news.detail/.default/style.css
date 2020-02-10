@@ -1,0 +1,26 @@
+.myblog-detail .box-time p {
+  color: #888;
+  font-size: 14px; }
+  .myblog-detail .box-time p i {
+    color: #888;
+    font-size: 14px;
+    margin-right: 5px; }
+.myblog-detail .box-image img {
+  margin: 0 0 20px 0;
+  padding: 0;
+  border: 0; }
+.myblog-detail .box-foto {
+  margin-top: 20px; }
+  .myblog-detail .box-foto .photo {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; }
+    .myblog-detail .box-foto .photo a {
+      display: block;
+      width: 100%;
+      height: 100%; }
+
+/*# sourceMappingURL=style.css.map */

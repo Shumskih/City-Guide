@@ -1,0 +1,37 @@
+div.mfeedback div.mf-name, div.mfeedback div.mf-email, div.mfeedback div.mf-captcha, div.mfeedback div.mf-message {
+  width: 100%;
+  padding-bottom: 0.4em; }
+div.mfeedback div.mf-name input, div.mfeedback div.mf-email input {
+  width: 100%; }
+div.mfeedback div.mf-message textarea {
+  width: 100%; }
+div.mfeedback span.mf-req {
+  color: red; }
+div.mfeedback div.mf-ok-text {
+  color: green;
+  font-weight: bold;
+  padding-bottom: 1em; }
+div.mfeedback .mfeedback-button {
+  border-radius: 5px;
+  display: block;
+  font-size: 12px;
+  text-align: center;
+  border: 1px solid #c84972;
+  background-color: #c84972;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  color: #fff;
+  text-decoration: none; }
+  div.mfeedback .mfeedback-button:hover {
+    border-radius: 5px;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #c84972;
+    background-color: #fff;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color: #c84972;
+    text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@import "../../../../var";
+
+
+.forgot_password {
+  margin-top:40px;
+
+  hr {
+    border-top: 1px solid $second_color;
+  }
+
+  .form-group {
+    margin-bottom:20px;
+
+    .buttonLogin {
+      padding: 5px 10px;
+      box-sizing: border-box;
+      background-color: $primary_color;
+      border: 1px solid $primary_color;
+      color: #ffffff;
+      display: inline-block;
+      text-align: center;
+
+      &:hover {
+        background-color: #fff;
+        border: 1px solid $primary_color;
+        color: $primary_color;
+      }
+    }
+  }
+}

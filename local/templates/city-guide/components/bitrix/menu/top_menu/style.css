@@ -1,0 +1,64 @@
+/*for bootstap4*/
+ul.navbar-nav {
+  margin: 0px;
+  right: 0px;
+  padding: 0px;
+  list-style: none; }
+  ul.navbar-nav li.nav-item {
+    display: inline-block;
+    padding: 0px;
+    transition: .25s all;
+    position: relative;
+    text-align: left; }
+    ul.navbar-nav li.nav-item a.nav-link {
+      color: #fff;
+      font-size: 14px;
+      padding: 5px 10px; }
+      ul.navbar-nav li.nav-item a.nav-link i {
+        margin-right: 5px; }
+    ul.navbar-nav li.nav-item ul {
+      list-style: disc;
+      color: #fff;
+      display: none;
+      padding: 0px 0px 0px 40px;
+      margin: 0px 0px;
+      text-align: left;
+      background-color: #33434b;
+      background-clip: padding-box; }
+      ul.navbar-nav li.nav-item ul li.nav-item a.nav-link {
+        display: inline-block;
+        color: #fff;
+        padding: 5px 0px; }
+    ul.navbar-nav li.nav-item.active {
+      background-color: #fff; }
+      ul.navbar-nav li.nav-item.active a.nav-link {
+        color: #c84972;
+        padding: 5px 10px; }
+      ul.navbar-nav li.nav-item.active ul {
+        display: block; }
+        ul.navbar-nav li.nav-item.active ul li.nav-item a.nav-link {
+          color: #ccc;
+          padding: 5px 0px; }
+        ul.navbar-nav li.nav-item.active ul li.nav-item:hover {
+          background-color: transparent; }
+          ul.navbar-nav li.nav-item.active ul li.nav-item:hover a.nav-link {
+            color: #fff;
+            text-decoration: underline; }
+    ul.navbar-nav li.nav-item:hover {
+      background-color: #fff;
+      transition: .25s all; }
+      ul.navbar-nav li.nav-item:hover a.nav-link {
+        color: #c84972;
+        padding: 5px 10px; }
+      ul.navbar-nav li.nav-item:hover ul {
+        display: block; }
+        ul.navbar-nav li.nav-item:hover ul li.nav-item a.nav-link {
+          color: #ccc;
+          padding: 5px 0px; }
+        ul.navbar-nav li.nav-item:hover ul li.nav-item:hover {
+          background-color: transparent; }
+          ul.navbar-nav li.nav-item:hover ul li.nav-item:hover a.nav-link {
+            color: #fff;
+            text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */

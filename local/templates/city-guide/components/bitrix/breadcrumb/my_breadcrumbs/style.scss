@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import "../../../../var";
+
+.bx-breadcrumb {
+}
+.bx-breadcrumb i {
+  color: #b5bdc2;
+  line-height: 19px;
+  font-size: 16px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.bx-breadcrumb .bx-breadcrumb-item {
+  float: left;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  line-height: 13px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.bx-breadcrumb .bx-breadcrumb-item span {
+  font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+  white-space: normal;
+}
+.bx-breadcrumb .bx-breadcrumb-item a {border-bottom: none;}
+.bx-breadcrumb .bx-breadcrumb-item a:hover {}

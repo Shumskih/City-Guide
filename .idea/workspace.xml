@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da084db8-0380-43a3-832a-d7961900c16f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XWmVSyCuUefXELGwYQkbwQmeFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/local/templates/city-guide/components/bitrix/catalog/dostoprimechatelnosti/bitrix/catalog.element/.default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PhpstormProjects\gid-po-gorodu-2\local\templates\city-guide\components\bitrix\catalog\dostoprimechatelnosti\bitrix\catalog.section\.default" />
+      <recent name="C:\PhpstormProjects\gid-po-gorodu-2\local\templates\city-guide\components\bitrix\news\myblog\bitrix\news.list\.default" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PhpstormProjects\gid-po-gorodu-2\local\templates\city-guide\components\bitrix\catalog\dostoprimechatelnosti\bitrix\catalog.element\.default" />
+      <recent name="C:\PhpstormProjects\gid-po-gorodu-2\local\templates\city-guide\components\bitrix\catalog\dostoprimechatelnosti\bitrix\catalog.section\.default" />
+      <recent name="C:\PhpstormProjects\gid-po-gorodu-2" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da084db8-0380-43a3-832a-d7961900c16f" name="Default Changelist" comment="" />
+      <created>1581170247982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581170247982</updated>
+      <workItem from="1581170249356" duration="22299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="161" key="EditFileWatcherDialog" timestamp="1581176134050">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="318" y="161" key="EditFileWatcherDialog/0.0.1366.768@0.0.1366.768" timestamp="1581176134050" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1581176131978">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581176131978" />
+    <state x="518" y="306" key="NewPhpFileDialog" timestamp="1581181303881">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="518" y="306" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1581181303881" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1581176077206">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581176077206" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581181840896">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1581181840896" />
+  </component>
+</project>

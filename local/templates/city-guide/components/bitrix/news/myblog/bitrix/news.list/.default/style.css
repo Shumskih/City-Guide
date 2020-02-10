@@ -1,0 +1,22 @@
+.myblog-list .myblog-list-item {
+  margin-bottom: 20px; }
+.myblog-list .box-image {
+  margin-bottom: 20px; }
+  .myblog-list .box-image img {
+    border: 0;
+    margin: 0;
+    padding: 0; }
+.myblog-list .box-title {
+  margin: 0; }
+  .myblog-list .box-title h4 {
+    padding-bottom: 10px;
+    margin: 0; }
+.myblog-list .box-time p {
+  color: #888;
+  font-size: 14px; }
+  .myblog-list .box-time p i {
+    color: #888;
+    font-size: 14px;
+    margin-right: 5px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,11 @@
+<address>
+  <strong>Санкт-Петербург</strong><br>
+  улица. Большая<br>
+  Красвый дом, 18<br>
+  <abbr title="Телефон">Тел:</abbr> (123) 456-7890
+</address>
+
+<address>
+  <strong>Название</strong><br>
+  <a href="mailto:Электропочта">Электропочта</a>
+</address>

@@ -1,0 +1,72 @@
+h1, h2, h3, h4, h5, h6 {
+  color: #000;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1; }
+
+h1 small, .h1 small, h2 small, .h2 small, h3 small, .h3 small, h1 .small, .h1 .small, h2 .small, .h2 .small, h3 .small, .h3 .small {
+  font-size: 65%; }
+
+h4 small, .h4 small, h5 small, .h5 small, h6 small, .h6 small, h4 .small, .h4 .small, h5 .small, .h5 .small, h6 .small, .h6 .small {
+  font-size: 75%; }
+
+h1 {
+  font-size: 36px; }
+
+h2 {
+  font-size: 30px; }
+
+h3 {
+  font-size: 24px; }
+
+h4 {
+  font-size: 18px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  font-size: 12px; }
+
+a {
+  color: #c84972;
+  cursor: pointer; }
+
+a:hover {
+  color: #c84972; }
+
+p {
+  font-size: 14px;
+  color: #000000; }
+
+p.lead {
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 1.4; }
+
+abbr {
+  color: #000000; }
+
+address {
+  margin-bottom: 20px;
+  font-style: normal;
+  line-height: 1.42857143; }
+
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #c84972; }
+
+blockquote footer, blockquote small, blockquote .small {
+  display: block;
+  font-size: 80%;
+  line-height: 1.42857143;
+  color: #c84972; }
+
+img {
+  border: 1px solid #c84972;
+  padding: 5px;
+  margin: 5px; }
+
+/*# sourceMappingURL=styles.css.map */

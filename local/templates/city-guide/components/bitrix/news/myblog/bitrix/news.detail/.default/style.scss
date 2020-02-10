@@ -1,0 +1,44 @@
+@charset "UTF-8";
+@import "../../../../../../../var";
+
+.myblog-detail {
+  .box-time {
+    p{
+      color: #888;
+      font-size: 14px;
+
+      i{
+        color: #888;
+        font-size: 14px;
+        margin-right: 5px;
+      }
+    }
+  }
+
+  .box-image {
+    img {
+      margin: 0 0 20px 0;
+      padding: 0;
+      border: 0;
+    }
+  }
+
+  .box-foto {
+    margin-top: 20px;
+    .photo {
+      width: 100%;;
+      height: 150px;
+      margin-bottom: 20px;
+
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      a {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}

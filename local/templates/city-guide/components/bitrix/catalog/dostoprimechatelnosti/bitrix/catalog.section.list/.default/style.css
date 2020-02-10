@@ -1,0 +1,12 @@
+.dostoprimechatelnosti-list-li .dostoprimechatelnosti-item-li {
+  margin-bottom: 40px; }
+  .dostoprimechatelnosti-list-li .dostoprimechatelnosti-item-li .box-image {
+    margin-bottom: 10px; }
+    .dostoprimechatelnosti-list-li .dostoprimechatelnosti-item-li .box-image image {
+      margin: 0;
+      padding: 0; }
+  .dostoprimechatelnosti-list-li .dostoprimechatelnosti-item-li h4 {
+    color: #c84972;
+    text-align: center; }
+
+/*# sourceMappingURL=style.css.map */

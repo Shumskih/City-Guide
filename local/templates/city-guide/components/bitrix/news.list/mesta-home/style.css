@@ -1,0 +1,61 @@
+.mesta-home .box-mesto-new {
+  background-color: #c84972;
+  padding: 30px 10px;
+  border-radius: 5px;
+  border: 1px solid #c84972;
+  text-align: center;
+  transition: all 0.25s;
+  height: 305px;
+  margin-bottom: 40px; }
+  .mesta-home .box-mesto-new:hover {
+    opacity: 0.9;
+    transition: all 0.25s; }
+  .mesta-home .box-mesto-new i {
+    color: #fff;
+    font-size: 70px;
+    margin-bottom: 15px; }
+  .mesta-home .box-mesto-new span {
+    display: block;
+    color: #fff;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 20px; }
+  .mesta-home .box-mesto-new a.btn-look {
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff; }
+    .mesta-home .box-mesto-new a.btn-look:hover {
+      color: #c84972;
+      background-color: #fff; }
+.mesta-home .box-mesto {
+  border-radius: 5px;
+  border: 1px solid #c84972;
+  text-align: center;
+  transition: all 0.25s;
+  position: relative;
+  height: 305px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-bottom: 40px; }
+  .mesta-home .box-mesto:hover {
+    opacity: 0.9; }
+  .mesta-home .box-mesto a {
+    display: block;
+    width: 100%;
+    height: 100%; }
+    .mesta-home .box-mesto a .foto {
+      width: 100%;
+      height: 150px;
+      margin-bottom: 20px;
+      border-radius: 5px 5px 0 0;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover; }
+    .mesta-home .box-mesto a h4 {
+      text-align: center;
+      padding: 0 10px;
+      color: #c84972;
+      line-height: 26px; }
+
+/*# sourceMappingURL=style.css.map */

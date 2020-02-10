@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import "../../../../var";
+
+div.mfeedback {
+  div.mf-name, div.mf-email, div.mf-captcha, div.mf-message
+  {width:100%; padding-bottom:0.4em;}
+
+  div.mf-name input, div.mf-email input
+  {width:100%;}
+
+  div.mf-message textarea
+  {width: 100%;}
+
+  span.mf-req
+  {color:red;}
+
+  div.mf-ok-text
+  {color:green; font-weight:bold; padding-bottom: 1em;}
+
+  .mfeedback-button {
+    border-radius: 5px;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid $primary_color;
+    background-color: $primary_color;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+      border-radius: 5px;
+      display: block;
+      font-size: 12px;
+      text-align: center;
+      border: 1px solid $primary_color;
+      background-color: #fff;
+      padding-top: 6px;
+      padding-bottom: 6px;
+      color: $primary_color;
+      text-decoration: none;
+    }
+  }
+}
+

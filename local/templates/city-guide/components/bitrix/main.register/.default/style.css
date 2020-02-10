@@ -1,0 +1,24 @@
+.bx-auth-reg {
+  margin-top: 40px; }
+  .bx-auth-reg hr {
+    border-top: 1px solid #000; }
+  .bx-auth-reg .form-group {
+    margin-bottom: 20px; }
+    .bx-auth-reg .form-group label {
+      text-align: left; }
+    .bx-auth-reg .form-group .buttonLogin {
+      padding: 5px 10px;
+      box-sizing: border-box;
+      background-color: #c84972;
+      border: 1px solid #c84972;
+      color: #ffffff;
+      display: inline-block;
+      text-align: center; }
+      .bx-auth-reg .form-group .buttonLogin:hover {
+        background-color: #fff;
+        border: 1px solid #c84972;
+        color: #c84972; }
+    .bx-auth-reg .form-group a:hover {
+      text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,20 @@
+.my-auth-form {
+  margin-top: 40px; }
+  .my-auth-form hr {
+    border-top: 1px solid #000; }
+  .my-auth-form .form-group {
+    margin-bottom: 20px; }
+    .my-auth-form .form-group .buttonLogin {
+      padding: 5px 10px;
+      box-sizing: border-box;
+      background-color: #c84972;
+      border: 1px solid #c84972;
+      color: #ffffff;
+      display: inline-block;
+      text-align: center; }
+      .my-auth-form .form-group .buttonLogin:hover {
+        background-color: #fff;
+        border: 1px solid #c84972;
+        color: #c84972; }
+
+/*# sourceMappingURL=style.css.map */

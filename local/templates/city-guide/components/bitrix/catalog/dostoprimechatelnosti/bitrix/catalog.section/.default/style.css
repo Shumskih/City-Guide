@@ -1,0 +1,14 @@
+.catalog-section .box-section-item {
+  margin-bottom: 40px; }
+  .catalog-section .box-section-item .box-image {
+    margin-bottom: 20px; }
+    .catalog-section .box-section-item .box-image img {
+      border: 0;
+      margin: 0;
+      padding: 0; }
+
+.box-map #map {
+  width: 100%;
+  height: 400px; }
+
+/*# sourceMappingURL=style.css.map */
