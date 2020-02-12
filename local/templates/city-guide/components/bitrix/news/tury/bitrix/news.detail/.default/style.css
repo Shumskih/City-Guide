@@ -1,0 +1,47 @@
+.tur-detail .box-time p {
+  color: #888;
+  font-size: 14px; }
+.tur-detail .box-time i {
+  color: #888;
+  font-size: 14px;
+  margin-right: 5px; }
+.tur-detail .box-map {
+  margin-bottom: 20px; }
+  .tur-detail .box-map #map {
+    width: 100%;
+    height: 350px; }
+.tur-detail .box-custom-route {
+  margin-bottom: 40px; }
+  .tur-detail .box-custom-route #viewContainer .box-routes {
+    border: 1px solid #c84972;
+    border-radius: 5px; }
+    .tur-detail .box-custom-route #viewContainer .box-routes h4 {
+      background-color: #c84972;
+      padding: 10px 20px;
+      color: #fff; }
+    .tur-detail .box-custom-route #viewContainer .box-routes .box-route {
+      padding: 10px 20px; }
+.tur-detail .box-detail-text {
+  margin-bottom: 20px; }
+.tur-detail .box-element {
+  margin-bottom: 20px;
+  border: 1px solid #c84972;
+  border-radius: 5 p;
+  padding: 20px 10px; }
+  .tur-detail .box-element .box-image {
+    margin-bottom: 20px; }
+    .tur-detail .box-element .box-image img {
+      border: 0;
+      margin: 0;
+      padding: 0; }
+  .tur-detail .box-element .box-count {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #c84972;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */
