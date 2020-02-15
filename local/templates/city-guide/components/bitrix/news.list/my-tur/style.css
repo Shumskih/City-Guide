@@ -1,0 +1,15 @@
+.tur-list .tur-item {
+  margin-bottom: 40px;
+  font-size: 14px; }
+  .tur-list .tur-item .box-image {
+    margin-bottom: 20px; }
+    .tur-list .tur-item .box-image img {
+      border: none;
+      margin: 0;
+      padding: 0; }
+  .tur-list .tur-item .btn-edit {
+    display: inline-block; }
+  .tur-list .tur-item .btn-remove {
+    display: inline-block; }
+
+/*# sourceMappingURL=style.css.map */

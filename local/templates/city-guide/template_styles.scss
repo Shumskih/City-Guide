@@ -242,6 +242,55 @@ body {
 
     h3 {
       font-weight: bold;
+      text-align: left;
+    }
+  }
+
+  .box-user-panel {
+    border: 1px solid $primary_color;
+    border-radius: 5px;
+    margin-bottom: 40px;
+
+    h5 {
+      background-color: $primary_color;
+      color: #fff;
+      font-size: 16px;
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    .box-user-panel-inner {
+      padding: 10px;
+
+      &.user-data {
+        p {
+          margin: 5px 0;
+        }
+
+        .btn-user-edit {
+          background-color: $primary_color;
+          color: #fff;
+          border-color: $primary_color;
+
+          &:hover {
+            background-color: #fff;
+            color: $primary_color;
+          }
+        }
+      }
+      &.my-tur {
+        .btn-add {
+          color: #fff;
+          background-color: $primary_color;
+          border-color: $primary_color;
+          margin-bottom: 20px;
+
+          &:hover {
+            color: $primary_color;
+            background-color: #fff;
+          }
+        }
+      }
     }
   }
 }

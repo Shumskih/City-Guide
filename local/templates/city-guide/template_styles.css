@@ -160,7 +160,37 @@ body {
   .wrapper-content .box-title {
     margin-bottom: 20px; }
     .wrapper-content .box-title h3 {
-      font-weight: bold; }
+      font-weight: bold;
+      text-align: left; }
+  .wrapper-content .box-user-panel {
+    border: 1px solid #c84972;
+    border-radius: 5px;
+    margin-bottom: 40px; }
+    .wrapper-content .box-user-panel h5 {
+      background-color: #c84972;
+      color: #fff;
+      font-size: 16px;
+      text-align: center;
+      padding: 10px 0; }
+    .wrapper-content .box-user-panel .box-user-panel-inner {
+      padding: 10px; }
+      .wrapper-content .box-user-panel .box-user-panel-inner.user-data p {
+        margin: 5px 0; }
+      .wrapper-content .box-user-panel .box-user-panel-inner.user-data .btn-user-edit {
+        background-color: #c84972;
+        color: #fff;
+        border-color: #c84972; }
+        .wrapper-content .box-user-panel .box-user-panel-inner.user-data .btn-user-edit:hover {
+          background-color: #fff;
+          color: #c84972; }
+      .wrapper-content .box-user-panel .box-user-panel-inner.my-tur .btn-add {
+        color: #fff;
+        background-color: #c84972;
+        border-color: #c84972;
+        margin-bottom: 20px; }
+        .wrapper-content .box-user-panel .box-user-panel-inner.my-tur .btn-add:hover {
+          color: #c84972;
+          background-color: #fff; }
 
 .wrapper-mesta {
   padding: 125px 0 0 0; }

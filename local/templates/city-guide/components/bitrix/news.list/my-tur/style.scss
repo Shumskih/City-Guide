@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import "../../../../var";
+
+.tur-list {
+  .tur-item {
+    margin-bottom: 40px;
+    font-size: 14px;
+
+    .box-image {
+      margin-bottom: 20px;
+
+      img {
+        border: none;
+        margin: 0;
+        padding: 0;
+      }
+    }
+
+    .btn-edit {
+      display: inline-block;
+    }
+
+    .btn-remove {
+      display: inline-block;
+    }
+  }
+}

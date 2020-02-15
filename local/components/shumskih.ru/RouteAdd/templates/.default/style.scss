@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@import "../../../../../templates/city-guide/var";
+
+.component-route-add {
+  .box-map {
+    margin-bottom: 20px;
+
+    #map {
+      width: 100%;
+      height: 350px;
+    }
+  }
+
+  .box-custom-route {
+    margin-bottom: 40px;
+
+    #viewContainer {
+      .box-routes {
+        border: 1px solid $primary_color;
+        border-radius: 5px;
+
+        h4 {
+          background-color: $primary_color;
+          padding: 10px 20px;
+          color: #fff;
+        }
+
+        .box-route {
+          padding: 10px 20px;
+        }
+      }
+    }
+  }
+
+  form {
+    a#select-add {
+      color: #fff;
+    }
+
+    a.select-delete {
+      i {
+        color: #fff;
+      }
+    }
+
+    .form-row {
+      margin-bottom: 20px;
+
+      .box-count {
+        width: 30px;
+        height: 30px;
+
+        border-radius: 50%;
+        background-color: $primary_color;
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 20px;
+      }
+    }
+  }
+}

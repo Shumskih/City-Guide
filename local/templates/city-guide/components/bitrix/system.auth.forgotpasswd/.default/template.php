@@ -30,8 +30,6 @@ if (strlen($arResult["BACKURL"]) > 0)
 	<?=GetMessage("AUTH_FORGOT_PASSWORD_1")?>
 	</p>
 
-    <h4><?=GetMessage("AUTH_GET_CHECK_STRING")?></h4>
-
     <div class="form-group row">
         <label class="col-sm-4 col-md-2"><?=GetMessage("AUTH_LOGIN")?></label>
         <div class="col-sm-8  col-md-10">
